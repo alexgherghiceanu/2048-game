@@ -1,4 +1,4 @@
-#2048 Game using Ncurses
+# 2048 Game using Ncurses
 
 This project was created as part of my first year PCLP1 course, representing it's second assignment. We were tasked with creating a terminal-based recreation of the popular 2048 game in the C programming language, utilising the ncurses library.
 
