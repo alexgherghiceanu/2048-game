@@ -9,4 +9,4 @@ Features:
 - Ability to close the game and restart it at any time due to the use of the save_nr and save_score files to store the score and the state of the game board at any time.
 - The game also presents the ability to play itself after a few seconds of user inactivity, reaching the end of the current round before exiting the programm.
 
-Overall, after familiarising myself with the ncurses library, the project proved itself to be quite a fun project and an important step of my journey throught a Computer Science Degree. 
+Overall, after familiarising myself with the ncurses library, the project proved itself to be quite fun and an important step of my journey throught a Computer Science Degree. 
